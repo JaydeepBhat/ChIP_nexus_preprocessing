@@ -1,4 +1,4 @@
-# JayBhat_ChIP_nexus_preprocessing
+# ChIP_nexus_preprocessing
 
 The purpose of this workflow for preprocessing of ChIP-nexus data is to fix some issues, add rules to the snakemake workflow and put all the workflow in the conda environment. 
 
