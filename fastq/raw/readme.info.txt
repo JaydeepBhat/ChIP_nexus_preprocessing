@@ -1,0 +1,1 @@
+# this is the location of your raw fastq file which is the input of first rule (rule fastq_preprocess_single_end) in the snakemake file: "/PATH_TO_YOUR_RAW_DATA_FASTQ_FILES/fastq/raw/{factor}_nexus_{rep}.fastq.gz"
