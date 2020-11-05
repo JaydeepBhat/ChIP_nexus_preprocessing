@@ -1,6 +1,6 @@
 # ChIP_nexus_preprocessing
 
-The purpose of this workflow for preprocessing of ChIP-nexus data is to fix some issues, add rules to the snakemake workflow and put all the workflow in the conda environment. 
+The purpose of this workflow is to prepare easy-to-use preprocessing steps for ChIP-nexus data analysis. Additionally, some issues are fixed, new rules are added to the snakemake workflow and put all the workflow is put in the conda environment.
 
 This workflow is the modification of pipeline orginally developed by Melanie Weilert and Jeff Johnston. (Reference: https://github.com/mlweilert/chipnexus-processing-scripts)
 
